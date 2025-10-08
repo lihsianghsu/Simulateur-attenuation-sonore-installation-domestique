@@ -1,7 +1,7 @@
 # 🎧 Simulateur d'atténuation sonore d'une installation domestique
 Une application web simple pour simuler l’atténuation du bruit d’un appareil extérieur (climatiseur, pompe à chaleur, etc.) en fonction de la distance et des protections acoustiques utilisées.
 
-🔗 Lien de l'appli: simulateur-attenuation-sonore-installation-domestique.streamlit.app
+🔗 Lien de l'appli: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://simulateur-attenuation-sonore-installation-domestique.streamlit.app/)
 
 ## 🌟 Fonctionnalités
 
